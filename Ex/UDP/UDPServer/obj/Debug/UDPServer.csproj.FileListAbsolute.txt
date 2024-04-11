@@ -1,0 +1,11 @@
+D:\HOCTAP\NT106 - LTMCB\LYTHUYET\23-03-24\UDP\UDPServer\bin\Debug\UDPServer.exe.config
+D:\HOCTAP\NT106 - LTMCB\LYTHUYET\23-03-24\UDP\UDPServer\bin\Debug\UDPServer.exe
+D:\HOCTAP\NT106 - LTMCB\LYTHUYET\23-03-24\UDP\UDPServer\bin\Debug\UDPServer.pdb
+D:\HOCTAP\NT106 - LTMCB\LYTHUYET\23-03-24\UDP\UDPServer\obj\Debug\UDPServer.csproj.AssemblyReference.cache
+D:\HOCTAP\NT106 - LTMCB\LYTHUYET\23-03-24\UDP\UDPServer\obj\Debug\UDPServer.csproj.SuggestedBindingRedirects.cache
+D:\HOCTAP\NT106 - LTMCB\LYTHUYET\23-03-24\UDP\UDPServer\obj\Debug\UDPServer.server.resources
+D:\HOCTAP\NT106 - LTMCB\LYTHUYET\23-03-24\UDP\UDPServer\obj\Debug\UDPServer.Properties.Resources.resources
+D:\HOCTAP\NT106 - LTMCB\LYTHUYET\23-03-24\UDP\UDPServer\obj\Debug\UDPServer.csproj.GenerateResource.cache
+D:\HOCTAP\NT106 - LTMCB\LYTHUYET\23-03-24\UDP\UDPServer\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+D:\HOCTAP\NT106 - LTMCB\LYTHUYET\23-03-24\UDP\UDPServer\obj\Debug\UDPServer.exe
+D:\HOCTAP\NT106 - LTMCB\LYTHUYET\23-03-24\UDP\UDPServer\obj\Debug\UDPServer.pdb
