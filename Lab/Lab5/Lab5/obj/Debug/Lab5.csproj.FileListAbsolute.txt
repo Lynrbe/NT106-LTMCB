@@ -1,0 +1,11 @@
+D:\HOCTAP\NT106 - LTMCB\THUCHANH\LAB5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\HOCTAP\NT106 - LTMCB\THUCHANH\LAB5\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\HOCTAP\NT106 - LTMCB\THUCHANH\LAB5\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\HOCTAP\NT106 - LTMCB\THUCHANH\LAB5\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+D:\HOCTAP\NT106 - LTMCB\THUCHANH\LAB5\Lab5\Lab5\obj\Debug\Lab5.Bai1.resources
+D:\HOCTAP\NT106 - LTMCB\THUCHANH\LAB5\Lab5\Lab5\obj\Debug\Lab5.Menu.resources
+D:\HOCTAP\NT106 - LTMCB\THUCHANH\LAB5\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\HOCTAP\NT106 - LTMCB\THUCHANH\LAB5\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+D:\HOCTAP\NT106 - LTMCB\THUCHANH\LAB5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\HOCTAP\NT106 - LTMCB\THUCHANH\LAB5\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\HOCTAP\NT106 - LTMCB\THUCHANH\LAB5\Lab5\Lab5\obj\Debug\Lab5.pdb
